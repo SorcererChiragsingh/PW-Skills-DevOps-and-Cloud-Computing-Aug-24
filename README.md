@@ -11,7 +11,7 @@
 <font color="red">The Course is in Progress....</font>
 </h3>
 <h4 align="center">
-<font color="red">Disclaimer: This is to inform you that the course began in August 2024 and will last for 6 months. I will diligently update the README file as the course progresses and regularly upload my work to this GitHub repository.progresses and add my work to this GitHub repository.</font>
+<font color="red">Disclaimer: This is to inform you that the course began in August 2024 and will last for 6 months. I will diligently update the README file as the course progresses and regularly upload my work to this GitHub repository. Progresses and add my work to this GitHub repository.</font>
 </h4>
 <p></p>
 
@@ -64,6 +64,9 @@
 - Fundamentals of Python & Linux
 - AWS
 - EC2
+- Autoscaling and DNS
+- AWS Migration
+- Automation and Configuration management
 - Virtual Private Cloud
 - Load Balacing & Autoscaling
 - SNS, SQS & SES
@@ -73,7 +76,7 @@
 - Docker
 - What is CI/CD
 - Ansible
-- Terraform
+- Terraform Modules & Workspaces
 - Kubernetes
 - Prometheus and Grafana | and many more.......
 
