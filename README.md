@@ -22,7 +22,7 @@
 - [About](#about)
 - [Why To Learn Devops](#Why-To-Learn-Devops)
 - [The various stages of DevOps depend upon automation tools such as](#The-various-stages-of-DevOps-depend-upon-automation-tools-such-as)
-- [Projetcs](#Projects)
+- [Projects](#Projects)
 - [Tech Stack](#tech-stack)
 - [Report Issues](#report-issues)
 - [License](#license)
